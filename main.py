@@ -1,7 +1,7 @@
 '''
-This module works with the database of films, their year and location of \
-directing. Creates map with 3 layers which shows 10 films produced in the \
-year the user has chosen and that are located the closest \
+This module works with the database of films, their year and location of
+directing. Creates map with 3 layers which shows 10 films produced in the
+year the user has chosen and that are located the closest
 to the user's location.
 '''
 import folium
